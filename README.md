@@ -23,7 +23,7 @@ Tier 1: 28.05%
 Tier 2: 39.77%
 Tier 3: 32.18%
 Sanpshots:
-Screenshot 2024-07-30 125023
+Screenshot: 
 
-Screenshot 2024-07-30 125119
+Screenshot :
 
